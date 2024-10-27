@@ -28,7 +28,7 @@ sudo systemctl start nginx
 ## Step 4: Create HTML File
 
 ```
-sudo vim /var/www/html/index.html
+sudo vi /var/www/html/index.html
 ```
 
 Add the HTML content, for example.
